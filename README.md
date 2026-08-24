@@ -4,7 +4,7 @@
 
 Design is not just what it looks like, but how it works; make the navigation intuitive and responsive.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
