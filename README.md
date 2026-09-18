@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Design is not just what it looks like, but how it works; make the navigation intuitive and responsive.
+Focus on showing off real-world user metrics and direct contributions in your portfolio site.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
