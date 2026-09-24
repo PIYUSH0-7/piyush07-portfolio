@@ -4,7 +4,7 @@
 
 Focus on showing off real-world user metrics and direct contributions in your portfolio site.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
