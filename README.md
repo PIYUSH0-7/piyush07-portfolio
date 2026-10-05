@@ -4,7 +4,7 @@
 
 A portfolio is an interactive story; combine clean visual design with lightning-fast load times to make a memorable impression.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
