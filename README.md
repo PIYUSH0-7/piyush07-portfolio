@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Design is not just what it looks like, but how it works; make the navigation intuitive and responsive.
+A portfolio is an interactive story; combine clean visual design with lightning-fast load times to make a memorable impression.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
